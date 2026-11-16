@@ -111,7 +111,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 3. Open the Notebook
 
-jupyter notebook nepal_flood_prediction.ipynb
+    google colab nepal_flood_prediction
+
+(https://github.com/srisana37-afk/Nepal-flood-analysis/blob/main/nepal-flood40.ipynb)
 
 📌 ResultsThe project successfully demonstrates:
 
