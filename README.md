@@ -25,7 +25,7 @@ The project demonstrates how data analytics and machine learning can transform r
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn[
+- Seaborn
 - Google Colab 
 
 ---
@@ -33,6 +33,7 @@ The project demonstrates how data analytics and machine learning can transform r
 ## 📁 Project Structure
 
 Nepal-Flood-Prediction/
+
 ├── CORRECTED_2023_2026_NEPAL_FLOOD_WEATHER_KAGGLE.csv   # Dataset
 ├── nepal_flood_prediction.ipynb                         # Python EDA & ML Notebook
 └── README.md                                            # Project Documentation
@@ -115,7 +116,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 (https://github.com/srisana37-afk/Nepal-flood-analysis/blob/main/nepal-flood40.ipynb)
 
-📌 ResultsThe project successfully demonstrates:
+📌 Results
+
+The project successfully demonstrates:
 
 
    Data inspection, null verification, and time-series target engineering   Predictive modeling of river discharge using Scikit-learn regressors   Quantitative evaluation using MAE, RMSE, and $R^2$   These analyses help researchers and disaster management teams anticipate high-discharge events and monitor flood-prone river basins.
