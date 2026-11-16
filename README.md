@@ -33,11 +33,11 @@ The project demonstrates how data analytics and machine learning can transform r
 ## 📁 Project Structure
 
 Nepal-Flood-Prediction/
-├── CORRECTED_2023_2026_NEPAL_FLOOD_WEATHER_KAGGLE.csv  # Dataset
+├── CORRECTED_2023_2026_NEPAL_FLOOD_WEATHER_KAGGLE.csv    # Dataset
 
-├── nepal_flood_prediction.ipynb                         # Python EDA & ML Notebook
+├── nepal_flood_prediction.ipynb                           # Python EDA & ML Notebook
 
-└── README.md                                            # Project Documentation
+└── README.md                                              # Project Documentation
 
 
 ## 📂 Dataset Description
