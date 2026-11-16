@@ -86,7 +86,8 @@ The notebook includes analysis and modeling of:
   - **Linear Regression**
   - **Decision Tree Regressor**
 
----    https://github.com/srisana37-afk/Nepal-flood-analysis/blob/main/Doc1.docx          
+---    screenshot of EDA
+(https://github.com/srisana37-afk/Nepal-flood-analysis/blob/main/Doc1.docx)          
 
 ## 🔍 Key Insights
 
@@ -121,6 +122,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 The project successfully demonstrates:
 
+(https://colab.research.google.com/drive/1PyhEoD8dAExXXNUIt398fDqONUexdeXX)
 
    Data inspection, null verification, and time-series target engineering   Predictive modeling of river discharge using Scikit-learn regressors   Quantitative evaluation using MAE, RMSE, and $R^2$   These analyses help researchers and disaster management teams anticipate high-discharge events and monitor flood-prone river basins.
 
