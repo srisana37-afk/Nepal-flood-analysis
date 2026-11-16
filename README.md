@@ -33,7 +33,6 @@ The project demonstrates how data analytics and machine learning can transform r
 ## 📁 Project Structure
 
 Nepal-Flood-Prediction/
-
 ├── CORRECTED_2023_2026_NEPAL_FLOOD_WEATHER_KAGGLE.csv   # Dataset
 ├── nepal_flood_prediction.ipynb                         # Python EDA & ML Notebook
 └── README.md                                            # Project Documentation
@@ -85,7 +84,7 @@ The notebook includes analysis and modeling of:
   - **Linear Regression**
   - **Decision Tree Regressor**
 
----              
+---    https://github.com/srisana37-afk/Nepal-flood-analysis/blob/main/Doc1.docx          
 
 ## 🔍 Key Insights
 
