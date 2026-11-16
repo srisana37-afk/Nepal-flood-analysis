@@ -85,7 +85,7 @@ The notebook includes analysis and modeling of:
   - **Linear Regression**
   - **Decision Tree Regressor**
 
----
+---              
 
 ## 🔍 Key Insights
 
